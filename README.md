@@ -1,5 +1,7 @@
 # Tallis Casebook (work in progress)
 
+**Next:** the plan for the rebuild, including the guide system and the full curriculum, is in [`docs/rebuild-brief.md`](docs/rebuild-brief.md).
+
 A calmer redesign of the Tallis Living Tenant SC-300 study game. The original is kept unchanged in `archive/tallis-living-tenant-original.html`.
 
 ## Why the redesign
